@@ -2,6 +2,7 @@
 # print(fruit)
 
 # using input function
+# 1st Stage
 fruit = input("Enter your favorite fruit: ")
 print(fruit)
 
@@ -11,9 +12,8 @@ greeting= 'Hello!'
 print(greeting , name)
 
 #Or
-
-# name = input("Enter your name: ")
-# print('Hello' , name)
+name = input("Enter your name: ")
+print('Hello' , name)
 
 # 3rd stage of Input fnction
 name = input("Enter your name: ")
